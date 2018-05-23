@@ -1,0 +1,7 @@
+/*
+  PROBLEM STATEMENT :https://www.hackerrank.com/challenges/average-population/problem
+*/
+
+
+SELECT ROUND(AVG(POPULATION),0)
+FROM CITY
