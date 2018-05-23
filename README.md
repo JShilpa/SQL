@@ -1,2 +1,2 @@
 # SQL
-sql related stuff, interview questions, mySQL complex queries
+HackerRank MySQL challenges, SQL With Python, SQLite3 and Pandas
